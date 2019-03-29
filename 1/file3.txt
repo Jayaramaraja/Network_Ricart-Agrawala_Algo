@@ -1,0 +1,13 @@
+IP Address - 10.176.69.41 with Seq_num - 2
+IP Address - 10.176.69.71 with Seq_num - 4
+IP Address - 10.176.69.41 with Seq_num - 5
+IP Address - 10.176.69.51 with Seq_num - 10
+IP Address - 10.176.69.41 with Seq_num - 15
+IP Address - 10.176.69.71 with Seq_num - 16
+IP Address - 10.176.69.71 with Seq_num - 19
+IP Address - 10.176.69.71 with Seq_num - 21
+IP Address - 10.176.69.32 with Seq_num - 24
+IP Address - 10.176.69.71 with Seq_num - 25
+IP Address - 10.176.69.61 with Seq_num - 26
+IP Address - 10.176.69.71 with Seq_num - 27
+IP Address - 10.176.69.41 with Seq_num - 28
